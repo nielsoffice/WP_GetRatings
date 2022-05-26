@@ -83,13 +83,6 @@ class Getratings {
 
 	}
 
-	// public function wp_getRating_test() {
-
-	//   // Extending WP Get Rating
-	//   new WPGetRatingsMenu();		
-
-	// }
-
 	/**
 	 * Load the required dependencies for this plugin.
 	 *
